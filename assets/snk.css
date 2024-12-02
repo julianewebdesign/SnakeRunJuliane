@@ -14,7 +14,7 @@
 
 
 body {
-    background-image: url('assets/floresta1.png');
+    background-image: url('../assets/floresta1.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center;
